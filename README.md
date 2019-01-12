@@ -1,5 +1,7 @@
 # Homura_Band_Analysis
-A band analysis program for vasp calculation based on python , which could implement fatband &amp; band plot.
+A band analysis program for VASP calculation based on python , which could implement fatband &amp; band plot.
+
+Need for PROCAR, POSCAR, KPOINTS, OUTCAR from VASP
 
 Sb2Te3 for example:
 
